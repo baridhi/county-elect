@@ -1,41 +1,41 @@
-﻿rank,county,state,pop17,totarea,commish
-1,Los Angeles County,California,10163507,4057.88,5
-2,Cook County,Illinois,5211263,945.33,17
-3,Harris County,Texas,4652980,1703.48,4
-4,Maricopa County,Arizona,4307033,9200.14,5
-5,San Diego County,California,3337685,4206.63,5
-6,Orange County,California,3190400,790.57,5
-7,Miami-Dade County,Florida,2751796,1897.72,13
-8,Kings County,New York,2648771,70.82,0
-9,Dallas County,Texas,2618148,871.28,4
-10,Riverside County,California,2423266,7206.48,5
-11,Queens County,New York,2358582,108.53,0
-12,Clark County,Nevada,2204079,7891.43,7
-13,King County,Washington,2188649,2115.57,9
-14,San Bernardino County,California,2157404,20056.94,5
-15,Tarrant County,Texas,2054475,863.61,4
-16,Bexar County,Texas,1958578,1239.82,4
-17,Santa Clara County,California,1938153,1290.1,5
-18,Broward County,Florida,1935878,1209.79,9
-19,Wayne County,Michigan,1753616,612.08,15
-20,New York County,New York,1664727,22.83,0
-21,Alameda County,California,1663190,739.02,5
-22,Middlesex County,Massachusetts,1602947,817.82,0
-23,Philadelphia County,Pennsylvania,1580863,134.1,0
-24,Sacramento County,California,1530615,964.64,5
-25,Suffolk County,New York,1492953,912.05,18
-26,Bronx County,New York,1471160,42.1,0
-27,Palm Beach County,Florida,1471150,1969.76,7
-28,Hillsborough County,Florida,1408566,1020.21,7
-29,Nassau County,New York,1369514,284.72,19
-30,Orange County,Florida,1348975,903.43,6
-31,Franklin County,Ohio,1291981,532.19,3
-32,Hennepin County,Minnesota,1252024,553.59,7
-33,Oakland County,Michigan,1250836,867.66,21
-34,Cuyahoga County,Ohio,1248514,457.19,11
-35,Travis County,Texas,1226698,990.2,4
-36,Allegheny County,Pennsylvania,1223048,730.07,15
-37,Fairfax County,Virginia,1148433,390.97,10
-38,Contra Costa County,California,1147439,715.94,5
-39,Salt Lake County,Utah,1135649,742.28,9
-40,Mecklenburg County,North Carolina,1076837,523.84,9
+﻿rank,county,state,pop17,totarea,supervisors
+1,"Los Angeles County, CA",California,10163507,4057.88,5
+2,"Cook County, IL",Illinois,5211263,945.33,17
+3,"Harris County, TX",Texas,4652980,1703.48,4
+4,"Maricopa County, AZ",Arizona,4307033,9200.14,5
+5,"San Diego County, CA",California,3337685,4206.63,5
+6,"Orange County, CA",California,3190400,790.57,5
+7,"Miami-Dade County, FL",Florida,2751796,1897.72,13
+8,"Dallas County, TX",Texas,2618148,871.28,4
+9,"Riverside County, CA",California,2423266,7206.48,5
+10,"Clark County, NV",Nevada,2204079,7891.43,7
+11,"King County, WA",Washington,2188649,2115.57,9
+12,"San Bernardino County, CA",California,2157404,20056.94,5
+13,"Tarrant County, TX",Texas,2054475,863.61,4
+14,"Bexar County, TX",Texas,1958578,1239.82,4
+15,"Santa Clara County, CA",California,1938153,1290.1,5
+16,"Broward County, FL",Florida,1935878,1209.79,9
+17,"Wayne County, MI",Michigan,1753616,612.08,15
+18,"Alameda County, CA",California,1663190,739.02,5
+19,"Sacramento County, CA",California,1530615,964.64,5
+20,"Suffolk County, NY",New York,1492953,912.05,18
+21,"Palm Beach County, FL",Florida,1471150,1969.76,7
+22,"Hillsborough County, FL",Florida,1408566,1020.21,7
+23,"Nassau County, NY",New York,1369514,284.72,19
+24,"Orange County, FL",Florida,1348975,903.43,6
+25,"Franklin County, OH",Ohio,1291981,532.19,3
+26,"Hennepin County, MN",Minnesota,1252024,553.59,7
+27,"Oakland County, MI",Michigan,1250836,867.66,21
+28,"Cuyahoga County, OH",Ohio,1248514,457.19,11
+29,"Travis County, TX",Texas,1226698,990.2,4
+30,"Allegheny County, PA",Pennsylvania,1223048,730.07,15
+31,"Fairfax County, VA",Virginia,1148433,390.97,10
+32,"Contra Costa County, CA",California,1147439,715.94,5
+33,"Salt Lake County, UT",Utah,1135649,742.28,9
+34,"Mecklenburg County, NC",North Carolina,1076837,523.84,9
+35,"Wake County, NC",North Carolina,1072203,835.22,7
+36,"Montgomery County, MD",Maryland,1058810,491.25,9
+37,"Fulton County, GA",Georgia,1041423,526.63,7
+38,"Pima County, AZ",Arizona,1022769,9187.04,5
+39,"St. Louis County, MO",Missouri,996726,507.8,7
+40,"Fresno County, CA",California,989255,5957.99,5
