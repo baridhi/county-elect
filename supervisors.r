@@ -27,7 +27,7 @@ p <- ggplot(data=county,
     size=3.5, label.size=0, color="#2b2b2b")+
   # Theming
   labs(
-    title="Boards of Supervisors tend to be small relative to population",
+    title="Boards of supervisors tend to be small relative to population",
     subtitle="County supervisors/commissioners per 100,000 residents, 40 largest U.S. counties, 2017",
     caption="Author: Chris Goodman (@cbgoodman), Data: U.S. Census Bureau & Author's calculations.",
     y=NULL,
