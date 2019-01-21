@@ -19,7 +19,7 @@ annot$text <- gsub("<br>", "\n", annot$text)
 # plot
 p <- ggplot(data=county,
   aes(x=reorder(county, -pc.supervisor), y=pc.supervisor, width=0.9))+
-  geom_bar(stat="identity", fill="#E69F00")+
+  geom_bar(stat="identity", fill="#617A89")+
   scale_y_continuous(breaks=seq(0, 1.75, by=0.25))+
   # read in annotations
   geom_label(data=annot, aes(x=county, y=number, label=text, hjust=just),
